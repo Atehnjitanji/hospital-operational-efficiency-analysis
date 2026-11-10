@@ -15,8 +15,6 @@ The project demonstrates an end-to-end analytical workflow: cleaning public data
 
 > **Scope:** Older adults motivate the research, but the ED performance measures cover patients of all ages. Population and Medicare data provide demographic context; the analysis does not directly measure ED outcomes for patients aged 65 and older.
 
-**[Explore the full analysis notebook](A10-Hospital-Operational-Efficiency-for-Elderly-Across-U.S.-Regions%20%282%29.ipynb)**
-
 ## Research Questions
 
 - How do ED visit duration and the percentage of patients leaving without being seen differ across regions and rural–urban settings?
